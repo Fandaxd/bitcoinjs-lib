@@ -1,5 +1,5 @@
 {
-  "name": "@fandaxd/bitcoinjs-lib",
+  "name": "@fandaf/bitcoinjs-lib",
   "version": "6.1.5",
   "description": "Client-side Bitcoin JavaScript library",
   "main": "./src/index.js",
