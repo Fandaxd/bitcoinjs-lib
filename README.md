@@ -1,3 +1,6 @@
+# This is a fork of a library called BitcoinJS with added zcash support, rest of this README file is just the contents of the original repository's README. 
+
+<blockquote>
 # BitcoinJS (bitcoinjs-lib)
 [![Github CI](https://github.com/bitcoinjs/bitcoinjs-lib/actions/workflows/main_ci.yml/badge.svg)](https://github.com/bitcoinjs/bitcoinjs-lib/actions/workflows/main_ci.yml) [![NPM](https://img.shields.io/npm/v/bitcoinjs-lib.svg)](https://www.npmjs.org/package/bitcoinjs-lib) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
@@ -189,3 +192,4 @@ npm run-script coverage
 
 
 ## LICENSE [MIT](LICENSE)
+</blockquote>
